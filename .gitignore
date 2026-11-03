@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# 编译输出
+bin/
+obj/
+
+# 其他
+*.cache
+*.pdb
